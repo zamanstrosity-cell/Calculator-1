@@ -32,6 +32,22 @@ body {
     background-color: rgba(255, 255, 255, 0.9);
 }
 
+#clear {
+    background-color: rgba(122, 122, 209);
+}
+#clear:hover {
+    background-color: rgb(81, 81, 136);
+}
+
+#operator {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+#operator:hover {
+    background-color: rgba(255, 255, 0, 0.9);
+}
+
+
 .span-two {
     grid-column: span 2;
 }
